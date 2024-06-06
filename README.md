@@ -14,7 +14,7 @@ Durch dieses Update wird das Problem behoben das Sammelpunkte auf der Map nicht 
 5. Falls das Spiel dabei läuf empfiehlt es sich, das spiel neu zu starten.
 
 
-Solltet Ihr nach dem ersetzen der LUA weiterhin Erze, Kräuter oder andere Dinge nicht auf der Map angezeigt werden, dann könnt Ihr gerne hier eine "[Issue](https://github.com/csBlackWolf/GatherMate2-CataClassic-deDE/issues/new)" erstellen und mir dort Mitteilen was auf der Map nicht angezeigt wird.
+Solltet Ihr nach dem ersetzen der LUA weiterhin Erze, Kräuter oder andere Sammelpunkte habt, die nicht auf der Map angezeigt werden, dann könnt Ihr gerne hier eine "[Issue](https://github.com/csBlackWolf/GatherMate2-CataClassic-deDE/issues/new)" erstellen und mir dort Mitteilen welches Sammelpunkt-Objekt betroffen ist. Bitte schreibt den Namen des zu sammelnden Objekts mit dazu, welcher in euren Mouseover-Tooltip angezigt wird.
 ***  
   
 > [!IMPORTANT]
