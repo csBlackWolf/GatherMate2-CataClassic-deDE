@@ -17,13 +17,13 @@ Fixes: Kupferader, Zinader, Silberader, Mithrilvorkommen, Goldader, Echtsilbervo
 ![grafik](https://github.com/csBlackWolf/GatherMate2-CataClassic-deDE/assets/30509936/8ca09075-05ad-46c2-85d0-548440cedc64)  
   
 3. Verschiebe oder kopiere die Datei "GatherMate2-deDE.lua" in den "Locales" Ordner von GatherMate2, zu finden in den Addon Ordner. Ersetze dort die bereits vorhandene "GatherMate2-deDE.lua".  
-  (Beispiel Ordnerpfad: "\World of Warcraft\_classic_\Interface\AddOns\GatherMate2\Locales")
+(_Beispiel Ordnerpfad:_ ``` \World of Warcraft\_classic_\Interface\AddOns\GatherMate2\Locales ```)  
 ![grafik](https://github.com/csBlackWolf/GatherMate2-CataClassic-deDE/assets/30509936/92b60aac-a3c8-436d-8c5d-287a720b2917)  
   
-5. Falls das Spiel dabei läuf empfiehlt es sich, das spiel neu zu starten.
+4. Falls Ihr World of Warcraft Cata dabei offen hattet, empfiehlt es sich, das spiel neu zu starten.
 ![grafik](https://github.com/csBlackWolf/GatherMate2-CataClassic-deDE/assets/30509936/a554bb97-4834-4f26-ae82-f41fe364e81b)  
   
-Solltet Ihr nach dem ersetzen der LUA weiterhin Erze, Kräuter oder andere Sammelpunkte habt, die nicht auf der Map angezeigt werden, dann könnt Ihr gerne hier eine "[Issue](https://github.com/csBlackWolf/GatherMate2-CataClassic-deDE/issues/new)" erstellen und mir dort Mitteilen welches Sammelpunkt-Objekt betroffen ist. Bitte schreibt den Namen des zu sammelnden Objekts mit dazu, welcher in euren Mouseover-Tooltip angezigt wird.
+Solltet Ihr nach dem ersetzen der Datei weiterhin Erze, Kräuter oder andere Sammelpunkte habt, die nach dem aufsammeln nicht auf der Map angezeigt werden, dann könnt Ihr gerne hier eine "[Issue](https://github.com/csBlackWolf/GatherMate2-CataClassic-deDE/issues/new)" erstellen und mir dort Mitteilen welche Sammelpunkt-Objekte betroffen sind. Bitte schreibt den Namen des zu sammelnden Objekts mit dazu, welcher in euren Mouseover-Tooltip angezigt wird.
 ***  
   
 > [!IMPORTANT]
