@@ -1,9 +1,12 @@
 # GatherMate2-CataClassic-deDE
 __Fix für die deutsche Übersetzung des Addons "GetherMate2" für World of Warcraft®: Cataclysm Classic™.__  
   
-Durch dieses Update wird das Problem behoben das manche neu entdeckte Sammelpunkte auf der Map nicht angezeigt werden, wenn man auf der deutschen Sprache spielt.
+Durch dieses Update wird das Problem behoben, das manche neu entdeckte Sammelpunkte auf der Map nicht angezeigt werden, wenn man das Spiel auf deutsch spielt.
+***
+# Changelog
 ```
-Letztes Update: 06.06.2024
+06.06.2024
+Fixes: Kupferader, Zinader, Silberader, Mithrilvorkommen, Goldader, Echtsilbervorkommen, Reiche Thoriumader, Kleine Thoriumader, Dunkeleisenvorkommen, Adamantitvorkommen, Kobaltvorkommen, Khoriumader, Großer Obsidianbrocken, Netheritvorkommen, Reiches Adamantitvorkommen, Reiches Kobaltvorkommen, Reiches Saronitvorkommen, Saronitvorkommen, Kleiner Obsidianbrocken, Titanader.
 ```
 ***
 ## Anleitung:
