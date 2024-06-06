@@ -1,7 +1,7 @@
 # GatherMate2-CataClassic-deDE
 Fix für die deutsche Übersetzung vom GetherMate2 World of Warcraft®: Cataclysm Classic™ Addon
 ***
-Anleitung:
+## Anleitung:
 1. Lade dir die ZIP-Datei mit der überarbeiteten LUA-Datei für die Übersetung hier herunter: [[Download]](https://github.com/csBlackWolf/GatherMate2-CataClassic-deDE/archive/refs/heads/main.zip)
   
 2. Öffne oder Entpacke die ZIP-Datei und suche nach der mit dem Namen "GatherMate2-deDE.lua".  
