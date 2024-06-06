@@ -17,7 +17,7 @@ Fixes: Kupferader, Zinader, Silberader, Mithrilvorkommen, Goldader, Echtsilbervo
 ![grafik](https://github.com/csBlackWolf/GatherMate2-CataClassic-deDE/assets/30509936/8ca09075-05ad-46c2-85d0-548440cedc64)  
   
 3. Verschiebe oder kopiere die Datei "GatherMate2-deDE.lua" in den "Locales" Ordner von GatherMate2, zu finden in den Addon Ordner. Ersetze dort die bereits vorhandene "GatherMate2-deDE.lua".  
-(_Beispiel Ordnerpfad:_ ``` \World of Warcraft\_classic_\Interface\AddOns\GatherMate2\Locales ```)  
+(_Beispiel Ordnerpfad:_ ``` \World of Warcraft\_classic_\Interface\AddOns\GatherMate2\Locales ``` )  
 ![grafik](https://github.com/csBlackWolf/GatherMate2-CataClassic-deDE/assets/30509936/92b60aac-a3c8-436d-8c5d-287a720b2917)  
   
 4. Falls Ihr World of Warcraft Cata dabei offen hattet, empfiehlt es sich, das spiel neu zu starten.
