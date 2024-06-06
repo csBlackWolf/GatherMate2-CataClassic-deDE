@@ -1,5 +1,6 @@
 # GatherMate2-CataClassic-deDE
 Fix für die deutsche Übersetzung vom GetherMate2 World of Warcraft®: Cataclysm Classic™ Addon.  
+  
 Durch dieses Update wird das Problem behoben das Sammelpunkte auf der Map nicht angezeigt werden, wenn man auf der deutschen Sprache spielt.
 ***
 ## Anleitung:
