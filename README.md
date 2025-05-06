@@ -27,4 +27,4 @@ Solltet Ihr nach dem ersetzen der Datei weiterhin Erze, Kräuter oder andere Sam
 ***  
   
 > [!IMPORTANT]
-> Updates von dem Addon werden die Datei verumutlich überschreiben, sofern der Addon-Entwickler die Datei bzw. die veränderte Übersetzung nicht übernimmt. Ich habe die änderung schon bei der vom Entwickler angegbenen [Webseite](https://www.wowace.com/projects/gathermate2-classic/localization/languages/94/phrases?filter-translator=102308299) eingereicht.
+> Updates von dem Addon werden die Datei vermutlich überschreiben, sofern der Addon-Entwickler die Datei bzw. die veränderte Übersetzung nicht übernimmt. Ich habe die änderung schon bei der vom Entwickler angegbenen [Webseite](https://www.wowace.com/projects/gathermate2-classic/localization/languages/94/phrases?filter-translator=102308299) eingereicht.
